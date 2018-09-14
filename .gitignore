@@ -4,7 +4,7 @@
 .perl-version
 .tidyall.d/
 Build
-/Catmandu-HOCR*
+/Catmandu-ALTOXML*
 LICENSE
 MANIFEST*
 META.json
