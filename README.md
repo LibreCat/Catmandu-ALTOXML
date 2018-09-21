@@ -10,7 +10,7 @@ Catmandu::ALTOXML - tools to work with ALTOXML documents
 
 # SYNOPSIS
 
-\#From the command line
+    #From the command line
 
     #Extract OCR data, treating each line as a record
 
@@ -76,3 +76,11 @@ Nicolas Franck `<nicolas.franck at ugent.be>`
 # SEE ALSO
 
 [Catmandu::Importer::ALTOXML](https://metacpan.org/pod/Catmandu::Importer::ALTOXML), [XML::LibXML::Reader](https://metacpan.org/pod/XML::LibXML::Reader), [Catmandu](https://metacpan.org/pod/Catmandu), [Catmandu::Importer](https://metacpan.org/pod/Catmandu::Importer)
+
+# LICENSE AND COPYRIGHT
+
+This program is free software; you can redistribute it and/or modify it
+under the terms of either: the GNU General Public License as published
+by the Free Software Foundation; or the Artistic License.
+
+See [http://dev.perl.org/licenses/](http://dev.perl.org/licenses/) for more information.
