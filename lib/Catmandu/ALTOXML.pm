@@ -21,7 +21,7 @@ Catmandu::ALTOXML - tools to work with ALTOXML documents
 
 =head1 SYNOPSIS
 
-#From the command line
+    #From the command line
 
     #Extract OCR data, treating each line as a record
 
@@ -91,6 +91,14 @@ Nicolas Franck C<< <nicolas.franck at ugent.be> >>
 =head1 SEE ALSO
 
 L<Catmandu::Importer::ALTOXML>, L<XML::LibXML::Reader>, L<Catmandu>, L<Catmandu::Importer>
+
+=head1 LICENSE AND COPYRIGHT
+
+This program is free software; you can redistribute it and/or modify it
+under the terms of either: the GNU General Public License as published
+by the Free Software Foundation; or the Artistic License.
+
+See L<http://dev.perl.org/licenses/> for more information.
 
 =cut
 
